@@ -1,0 +1,7 @@
+streamlit
+requests
+langchain-text-splitters
+duckduckgo-search
+beautifulsoup4
+qdrant-client
+python-dotenv
