@@ -57,7 +57,7 @@ HUGGINGFACE_TOKEN=your_huggingface_api_token
 ### Launch the Application
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## 🛠 How to Use
